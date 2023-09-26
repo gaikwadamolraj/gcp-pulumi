@@ -1,0 +1,12 @@
+{
+    "name": "gcp-gke",
+    "main": "index.ts",
+    "devDependencies": {
+        "@types/node": "^16"
+    },
+    "dependencies": {
+        "@pulumi/gcp": "^6.66.0",
+        "@pulumi/kubernetes": "^4.2.0",
+        "@pulumi/pulumi": "^3.85.0"
+    }
+}
